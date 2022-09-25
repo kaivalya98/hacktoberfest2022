@@ -27,7 +27,6 @@ Name: [YOUR NAME](Github Link)
 
 Place: city you belong to
 
-About: Short Intro (Optional)
 -------------------------------------------------------------------------------------------------------------------------------------------------
 Woo-Hooo🎉, You have made a PR to this repo🥳!
 
