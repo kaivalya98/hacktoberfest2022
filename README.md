@@ -20,7 +20,7 @@ Don't use filthy words and be welcome for beginners and other people in this com
 4.Have 4 pull/merge requests accepted between October 1 and October 31 to complete Hacktoberfest
 
 5.The first 40,000 participants (maintainers and contributors) who complete Hacktoberfest can elect to receive one of two prizes: a tree planted in their name, or the Hacktoberfest 2022 t-shirt.
-
+-----------------------------------------------------------------------------------------------------------------------------------------------
 Add your name to the CONTRIBUTORS.md file using following model
 
 Name: [YOUR NAME](Github Link)
@@ -28,7 +28,7 @@ Name: [YOUR NAME](Github Link)
 Place: city you belong to
 
 About: Short Intro (Optional)
-
+-------------------------------------------------------------------------------------------------------------------------------------------------
 Woo-Hooo🎉, You have made a PR to this repo🥳!
 
 Thank You❤️!
