@@ -6,7 +6,7 @@ HACKTOBERFEST IS FOR EVERYONE. WHETHER IT’S YOUR FIRST TIME—OR YOUR NINTH—
 
 Register here : https://hacktoberfest.com/ for Hacktoberfest and make four pull requests (PRs) between October 1st-31st to grab free SWAGS 🔥.
 
-Rules
+# Rules:
 Don't use filthy words and be welcome for beginners and other people in this community.
 
 # Github Contribution Rules:
@@ -26,6 +26,10 @@ Add your name to the CONTRIBUTORS.md file using following model
 Name: [YOUR NAME](Github Link)
 Place: city you belong to
 About: Short Intro (Optional)
+
+Woo-Hooo🎉, You have made a PR to this repo🥳!
+
+Thank You❤️!
 
 # License
 
