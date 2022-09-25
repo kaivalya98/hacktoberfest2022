@@ -24,7 +24,9 @@ Don't use filthy words and be welcome for beginners and other people in this com
 Add your name to the CONTRIBUTORS.md file using following model
 
 Name: [YOUR NAME](Github Link)
+
 Place: city you belong to
+
 About: Short Intro (Optional)
 
 Woo-Hooo🎉, You have made a PR to this repo🥳!
