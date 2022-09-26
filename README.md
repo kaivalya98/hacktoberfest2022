@@ -21,6 +21,9 @@ Don't use filthy words and be welcome for beginners and other people in this com
 
 5.The first 40,000 participants (maintainers and contributors) who complete Hacktoberfest can elect to receive one of two prizes: a tree planted in their name, or the Hacktoberfest 2022 t-shirt.
 
+Support
+If you like this project, please consider supporting it by giving it a ⭐️. It will help us to grow and improve this project and help others to find it
+
 -----------------------------------------------------------------------------------------------------------------------------------------------
 Add your name to the CONTRIBUTORS.md file using following model
 
