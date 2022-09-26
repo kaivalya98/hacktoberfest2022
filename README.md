@@ -37,5 +37,6 @@ Woo-Hooo🎉, You have made a PR to this repo🥳!
 Thank You❤️!
 
 # License
+This project is licensed under the GNU GENERAL PUBLIC License - see the [LICENSE](https://github.com/kaivalya98/hacktoberfest2022/blob/main/LICENCE) file for details
 
 https://creativecommons.org/publicdomain/zero/1.0/
