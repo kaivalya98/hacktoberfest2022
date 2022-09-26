@@ -41,4 +41,4 @@ Thank You❤️!
 # License
 This project is licensed under the GNU GENERAL PUBLIC License - see the [LICENSE](https://github.com/kaivalya98/hacktoberfest2022/blob/main/LICENCE) file for details
 
-https://creativecommons.org/publicdomain/zero/1.0/
+[![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0)
