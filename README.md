@@ -6,6 +6,9 @@ HACKTOBERFEST IS FOR EVERYONE. WHETHER IT’S YOUR FIRST TIME—OR YOUR NINTH—
 
 [Register here](https://hacktoberfest.com) for Hacktoberfest and make four pull requests (PRs) between October 1st-31st to grab free SWAGS 🎁🎁🔥.
 
+# Author 
+ Kaivalya Yadav
+ [Github](https://github.com/kaivalya98)
 # Rules:
 Don't use filthy words and be welcome for beginners and other people in this community.
 
