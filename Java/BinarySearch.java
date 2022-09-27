@@ -12,9 +12,7 @@ public class BinarySearch {
                 return mid;
             }else if(arr[mid] > x){
                 end = (mid-1);
-            }else {
-                start = (mid+1);
-            }
+            
         }
         return -1;
     }
