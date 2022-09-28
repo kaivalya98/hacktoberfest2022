@@ -1,1 +1,0 @@
-### Moving Car animtion in JS
