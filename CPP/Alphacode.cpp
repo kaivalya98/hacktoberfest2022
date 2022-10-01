@@ -62,7 +62,24 @@ int num_codes_i(int * input, int size) {
 	return ans;
 }
 
+int num_codes2(int* n, int size, int* arr) {
+	 if (size == 1) {
+		 return 1;
+	 }
+	 if (size == 0) {
+		 return 1;
+	 }
+	 if (arr[size] > 0) {
+		 return arr[size];
+	 }
 
+	 int output = num_codes(n, size - 1);
+	 if (output[size - 2] * 10 + output[size - 1] <= 26) {
+		 output += num_codes(n, size -2);
+	 }
+	 arr[size] = output;
+	 return output;
+}
 
 
 int main() {
