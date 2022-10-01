@@ -3,7 +3,7 @@
 # Defines function that searches through array
 def linearsearch(arr, x): # Passes in target as x, and the array
    for i in range(len(arr)): # Creates an index for length of array
-      if arr[i] == x: # Compares array value to searched value
+      
          return i # Returns index
    return -1
 
