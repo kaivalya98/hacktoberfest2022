@@ -3,12 +3,10 @@
 
 #include <stdio.h>
 #define size = 50
-int s[size];
-int top = -1;
-push(int elem)
-{
-      s[++top] = elem;
-}
+
+
+
+
 int pop()
 {
       return (s[top--]);
