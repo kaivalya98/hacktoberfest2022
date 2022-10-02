@@ -1,4 +1,8 @@
 # HACKTOBERFEST2022
+<div align="center">
+<a href="https://github.com/kaivalya98/hacktoberfest2022" ><img src="https://img.shields.io/github/contributors/kaivalya98/hacktoberfest2022?style=plastic">
+</a>
+</div>
 
 ![image](https://user-images.githubusercontent.com/107976165/192131651-8841ccd6-e347-4ff8-97c1-8d6a27fe2a72.png)
 
