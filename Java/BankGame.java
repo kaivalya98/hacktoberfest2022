@@ -34,7 +34,7 @@ public class Bank
                     System.out.println("Your initial account balance is Rs. 10000");
 
                     //Using for statement to perform 5 operation on each login
-                    for (int x=0; x<=6; x++)
+                    for (int x=0; x<5; x++)
                     {
                         System.out.println("0. Exit");
                         System.out.println("1. Deposit");
@@ -45,11 +45,11 @@ public class Bank
                         System.out.println("Enter the serial no. of your choice");
                         int choice= sc.nextInt();
                         System.out.println("Enter captha to verify that you are not a robot.");
-                        int captha= rd.nextInt(10000);
-                        System.out.println(captha);
+                        int captcha= rd.nextInt(10000);
+                        System.out.println(captcha);
                         System.out.println("Enter the number shown above: ");
                         int verify= sc.nextInt();
-                        if (verify==captha)
+                        if (verify==captcha)
                         {
                             //If captha gets matched, then these switch statements are executed.
                             switch(choice)
@@ -88,11 +88,17 @@ public class Bank
                                 {
                                     System.out.println("You have chosen to withdraw.");
                                     System.out.println("Enter the amount to be withdrawn");
+                                    if(withdraw > balance)
+                                    {
+                                          System.out.print("the reuqested withdrawl is more than the balance, select feasible withdrawl!");
+                                    }else{
                                     int withdraw=sc.nextInt();
                                     System.out.println(+withdraw+" has been withdrawn from your account.");
                                     bal=bal-withdraw;
                                     System.out.println("Check the cash printer.");
+                                    
                                     System.out.println("Left balance is "+bal);
+                                    }
                                 }
                                 break;
                                 case 3:
