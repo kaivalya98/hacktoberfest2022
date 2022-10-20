@@ -1,0 +1,48 @@
+.search-container {
+    height: 40px;
+    width: 500px;
+    float: center;
+    margin-top: 1px;
+    margin-bottom: 0px;
+}
+.search-button{
+    font-size: 15px;
+}
+#top-bar {
+    position: relative;
+    background-color: #FFF;
+    height: 47px;
+    box-shadow: 0 3px 10px rgb(0 0 0 / 10%);
+    z-index: 206;
+}
+.overlay-image{
+    position:absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    top: 0;
+    background-position: center;
+    background-size: cover;
+    opacity: 0.5;
+}
+
+.carousel-item{
+    height: 30rem;
+    width: 40rem;
+    margin-left: 10rem;
+    border: 2 px solid green;
+    background-color: #777;
+    color: white;
+}
+
+.container{
+    border: 2px solid red;
+    position: absolute;
+    top: 7rem;
+    margin-left: 10rem;
+    left: 14rem;
+    padding-left: 50px;
+    height: 30rem;
+    width: 40rem;
+    padding-bottom: 50px;    
+}
